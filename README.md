@@ -14,7 +14,7 @@ This project is ideal for **portfolios**, **job applications**, and **mid-level 
 > `frontend/public/screenshots/`
 
 ### 🔐 Login Page
-<img width="1093" height="758" alt="Captura de pantalla 2025-11-29 230319" src="https://github.com/user-attachments/assets/d507dbb3-b92a-408b-b691-268bd5766589" />
+<img width="1816" height="905" alt="Captura de pantalla 2025-11-29 230801" src="https://github.com/user-attachments/assets/7a38dad6-a51a-48bd-9101-44310fb4b443" />
 
 
 ### 📊 Dashboard Overview
@@ -213,3 +213,4 @@ GitHub: https://github.com/christianjrk
 
 ⭐ Support
 If you like this project, please star the repository ⭐
+
